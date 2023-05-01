@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class inchTometer {
     /* java program to read num in inches,and convert it into meters */
+	
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		System.out.print("INPUT A VALUE OF INCH : ");

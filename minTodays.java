@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class minTodays {
-   /*java program to print number of minutes into years and days*/
+   
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		System.out.print("INPUT NUMBER OF MINUTES : ");

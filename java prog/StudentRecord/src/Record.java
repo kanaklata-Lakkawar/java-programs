@@ -4,6 +4,8 @@ public class Record {
 public static void main(String a[])
 {
 	Scanner sc=new Scanner(System.in);
+	
+	
 	System.out.println("STUDENT RECORD MANAGEMNT SYSTEM");
 	Student s[]=new Student[12];
 	int st=0;

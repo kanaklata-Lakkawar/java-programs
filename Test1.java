@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+ /* java program that reads an integer between 0 and 1000
+      and adds all the digit in the number */
 public class Test1 {
    
 	public static void main(String[] args) {

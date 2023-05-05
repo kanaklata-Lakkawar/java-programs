@@ -1,6 +1,6 @@
 import java.util.Scanner;
-/* Java program to break an integer into a 
-	sequence of individual digits.*/
+/* Java program to break an integer into a sequence of individual digits.*/
+	
 public class Test2 {
 public static void main(String[] args)
 {

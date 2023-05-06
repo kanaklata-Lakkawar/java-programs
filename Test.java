@@ -1,8 +1,8 @@
 import java.util.Scanner;
-
+ /* java program to print temperature from fahrenheit  to celsius */
+    
 public class Test {
-    /* java program to print temperature from fahrenheit 
-     to celsius */
+   
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		System.out.print("ENTER TEMPERATURE IN FARHENITE : ");

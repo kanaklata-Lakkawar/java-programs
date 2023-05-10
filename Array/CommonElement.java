@@ -5,6 +5,7 @@ public class CommonElement {
 	public static void main(String[] args) {
 		
 		Scanner sc=new Scanner(System.in);
+		
 		int num[]=new int[5];
 		System.out.println("Enter size of array 1 : ");
 		int size1=Integer.parseInt(sc.nextLine());

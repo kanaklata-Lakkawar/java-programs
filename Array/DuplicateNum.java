@@ -1,9 +1,9 @@
 
 import java.util.Scanner;
-/*Write a Java program to find duplicate element from an array. */
 
 public class DuplicateNum {
-
+/*Write a Java program to find duplicate
+ element from an array. */
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		System.out.print("enter size of array ; ");

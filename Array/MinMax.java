@@ -1,8 +1,8 @@
 import java.util.Scanner;
+/*Write a Java program to find maximum and minimum element from an array. */
 
 public class MinMax {
-/*Write a Java program to find maximum and minimum
- element from an array. */
+
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		System.out.print("enter size of array ; ");

@@ -1,10 +1,10 @@
 import java.lang.reflect.Array;
 import java.util.Scanner;
-
+// java program to sort a numeric array and string array
 public class SortArrayString {
 
 	public static void main(String[] args) {
-// java program to sort a numeric array and string array
+
        Scanner sc=new Scanner(System.in);
        System.out.println("enter size of array : ");
        int size=Integer.parseInt(sc.nextLine());

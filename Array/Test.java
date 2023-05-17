@@ -1,8 +1,8 @@
 import java.util.Scanner;
-
+/*Write a Java program to remove/insert a specific element from an array. */
+ 
 public class Test {
-/*Write a Java program to remove/insert a specific 
- element from an array. */
+
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		System.out.print("enter size of array ; ");

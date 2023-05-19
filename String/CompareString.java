@@ -1,5 +1,6 @@
-import java.util.Scanner;
 /*java program to compare two strings.*/
+import java.util.Scanner;
+
 public class CompareString {
 
 	public static void main(String[] args) {

@@ -1,3 +1,8 @@
+/* Program to print the area of arectangle by creating a class named 'Area' taking the value of its 
+length and breadth as parameters of its constructor and having a method named 'returnArea' which returns 
+the area of rectangle.Length and brewafth of rectanle are  entered through keyboard*/
+
+
 package Area;
 
 import java.util.Scanner;

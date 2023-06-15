@@ -1,3 +1,4 @@
+/*  Print average of three numbers entered by user by creating a class named 'Average 'having method to calculate and print th average*/
 import java.util.Scanner;
 
 public class AverageMain {

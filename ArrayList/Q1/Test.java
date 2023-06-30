@@ -1,4 +1,6 @@
+
 package Q1;
+/*java progrqm to create arrayList add some strings and printout th collections*/
 import java.util.ArrayList;
 public class Test {
 

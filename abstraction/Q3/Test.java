@@ -12,20 +12,12 @@ class Cats extends Animals {
 		
 	}
 
-	@Override
-	void dogs() {
-		// TODO Auto-generated method stub
-		
-	}
+	
 	
 }
 class Dogs extends Animals{
 
-	@Override
-	void cats() {
-		// TODO Auto-generated method stub
-		
-	}
+	
 
 	@Override
 	void dogs() {

@@ -1,5 +1,5 @@
 package que7;
-
+/* ArrayList program to find element in the list*/
 import java.util.ArrayList;
 import java.util.Scanner;
 

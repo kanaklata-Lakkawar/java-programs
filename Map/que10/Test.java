@@ -1,20 +1,18 @@
 package que10;
 
-import java.util.HashMap;
+import java.util.TreeMap;
 
 public class Test {
 
 	public static void main(String[] args) {
-		HashMap<Integer,String> h=new HashMap<Integer,String>();
-		h.put(1, "Red");
-		h.put(2, "Green");
-		h.put(3, "Black");
-		h.put(4, "White");
-		h.put(5, "Blue");
-		System.out.println(h);
+		TreeMap<String,String> t=new TreeMap<String,String>();
+		t.put("C1", "Green");
+		t.put("C2", "Red");
+		t.put("C3", "White");
+		t.put("C4", "Black");
+		System.out.println(t);
 		
-		System.out.println("value for key 3 is : "+h.get(3));
-		
+		System.out.println("Reverse order view of the keys : "+t.descendingKeySet());
 
 	}
 

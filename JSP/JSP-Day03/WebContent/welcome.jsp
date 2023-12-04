@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-
 <% 
 String hr=config.getInitParameter("hr");
 String owner=application.getInitParameter("owner");

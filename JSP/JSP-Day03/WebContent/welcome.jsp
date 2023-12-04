@@ -12,7 +12,6 @@ String hr=config.getInitParameter("hr");
 String owner=application.getInitParameter("owner");
 %>
 <h5>Welcome <%=hr %></h5>
-
 <h5>owner name : <%=owner %></h5>
 </body>
 </html>

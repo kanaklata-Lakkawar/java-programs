@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>page 2</h1>
+Name : <p th:text ="${obj.name}">User Name</p> <br>
+id : <p th:text ="${obj.id}">id</p> <br>
+Marks :  <p th:text ="${obj.marks}">Salary</p> <br>
+
+
+Object u= <p th:text="${obj}"></p> <br>
+
+
+<div th:object="${obj}">
+Name : <p th:text ="*{name}">User Name</p> <br>
+id : <p th:text ="*{id}">id</p> <br>
+Marks :  <p th:text ="*{age}">Marks</p> <br>
+</div>
+</body>
+</html>
